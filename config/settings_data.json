@@ -1,5 +1,30 @@
 {
-  "current": "Default",
+  "current": {
+    "color_primary": "#af6ff4",
+    "color_secondary": "#efe0ff",
+    "color_borders": "#333333",
+    "color_body_bg": "#000000",
+    "color_body_text": "#efe0ff",
+    "color_footer_bg": "#000000",
+    "color_footer_text": "#e3caff",
+    "color_footer_social_link": "#af6ff4",
+    "logo_use_image": false,
+    "favicon_enable": false,
+    "footer_social_enable": true,
+    "footer_newsletter_enable": true,
+    "cart_notes_enable": true,
+    "ajax_cart_method": "drawer",
+    "social_twitter_link": "",
+    "social_facebook_link": "",
+    "checkout_body_background_color": "#000000",
+    "checkout_sidebar_background_color": "#000000",
+    "checkout_accent_color": "#cea3fb",
+    "checkout_button_color": "#efe0ff",
+    "checkout_error_color": "#ff8d8c",
+    "content_for_index": [
+
+    ]
+  },
   "presets": {
     "Default": {
       "ajax_cart_method": "drawer",
